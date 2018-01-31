@@ -1,8 +1,8 @@
 # 1. Introduction
 
-# 
 
-\#\# 1.1. Course goals
+
+## 1.1. Course goals
 
 
 
@@ -10,7 +10,7 @@ The aim of this course is to provide an introduction to current computational te
 
 
 
-\#\# 1.2. Computational background
+## 1.2. Computational background
 
 
 
@@ -24,7 +24,7 @@ Despite this, computational literacy in society at large and even in the science
 
 
 
-\#\# 1.3. Device setup
+## 1.3. Device setup
 
 
 
@@ -32,7 +32,7 @@ This course ideally works best in a computer lab setting where all students have
 
 
 
-\#\#\#  Linux setup
+###  Linux setup
 
 
 
@@ -42,29 +42,29 @@ If you have access to a machine that runs some sort of distribution of Linux \( 
 
 1. Terminal
 
-	\* all Linux systems have a terminal installed
+	* all Linux systems have a terminal installed
 
-	\* this will be used extensively throughout this
+	* this will be used extensively throughout this
 
-	\* follow these steps to find how to launch terminal in your distribution
+	* follow these steps to find how to launch terminal in your distribution
 
 
 
 2. Bash
 
-	\* This is the tool we will be using to teach UNIX basics, as long as you have the following Linux distributions , this will be the default. For other distributions please see the following guide.
+	* This is the tool we will be using to teach UNIX basics, as long as you have the following Linux distributions , this will be the default. For other distributions please see the following guide.
 
 3. Python
 
-	\* should be installed by default on Linux distributions
+	* should be installed by default on Linux distributions
 
-	\* can be accessed through Terminal
+	* can be accessed through Terminal
 
-	\* follow this guide to check python installation on your Linux systems
+	* follow this guide to check python installation on your Linux systems
 
 
 
-\#\#\# Mac setup
+### Mac setup
 
 
 
@@ -74,43 +74,31 @@ If you have acess to a Mac computer, you should also have most of the tools need
 
 1. Terminal
 
-	\* all Mac systems have a terminal installed
+	* all Mac systems have a terminal installed
 
-	\* this will be used extensively throughout this
+	* this will be used extensively throughout this
 
-	\* follow these steps to find how to launch terminal in Mac
+	* follow these steps to find how to launch terminal in Mac
 
 
 
 2. Bash
 
-	\* This is the tool we will be using to teach UNIX basics, this will be the default on Mac.
+	* This is the tool we will be using to teach UNIX basics, this will be the default on Mac.
 
 
 
 3. Python
 
-	\* should be installed by default on Mac
+	* should be installed by default on Mac
 
-	\* can be accessed through Terminal
+	* can be accessed through Terminal
 
-	\* follow this guide to check python installation on your Mac
-
-
-
-\#\#\# Windows setup
+	* follow this guide to check python installation on your Mac
 
 
 
-1. Run
-
-2. Run fast
-
-3. Run far
-
-
-
-\#\#\# Chromebook setup
+### Windows setup
 
 
 
@@ -122,7 +110,19 @@ If you have acess to a Mac computer, you should also have most of the tools need
 
 
 
-\#\# 1.4. Text editor setup
+### Chromebook setup
+
+
+
+1. Run
+
+2. Run fast
+
+3. Run far
+
+
+
+## 1.4. Text editor setup
 
 
 
@@ -132,7 +132,7 @@ The text editor we will be using for this class will be atom, refer to the follo
 
 
 
-\#\# 1.5. Everything is a text file
+## 1.5. Everything is a text file
 
 
 
@@ -140,15 +140,10 @@ Provides information about the UNIX system in reference to text files as well as
 
 
 
-\#\# 1.6. Host your text files on github
+## 1.6. Host your text files on github
 
 
 
 
 
 Provides information on how to setup github account, how to get files to and from github page on computer using terminal and atom.
-
-
-
-
-
